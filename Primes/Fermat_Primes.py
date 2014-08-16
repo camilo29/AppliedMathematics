@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 13 12:11:13 2014
+Author: Alejandro Cardenas-Avendano & Sebastían Mancipe
 
-@author: juanmanlass
+email: alejandro.cardenasa@konradlorenz.edu.co
+Website: https://github.com/alejandroc137
+License: BSD
+Please feel free to use and modify this, but keep the above information. Thanks!
 """
 
 n = 20
