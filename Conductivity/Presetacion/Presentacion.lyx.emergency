@@ -1279,6 +1279,148 @@ Porosidad
 
 \end_layout
 
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Porosidad III 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/Raw.png
+	scale 22
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/P3.jpg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+"
+\emph on
+Porosidad
+\emph default
+" inferida a partir de las imágenes SEM.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Porosidad IV 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/30.jpg
+	scale 22
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/46.jpg
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/97.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+"
+\emph on
+Porosidad
+\emph default
+" inferida a partir de las imágenes SEM.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
 \begin_layout Section
 Resultados
 \end_layout
