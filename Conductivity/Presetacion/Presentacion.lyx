@@ -1279,10 +1279,463 @@ Porosidad
 
 \end_layout
 
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Porosidad III 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/Raw.png
+	scale 22
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/P3.jpg
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+"
+\emph on
+Porosidad
+\emph default
+" inferida a partir de las imágenes SEM.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Porosidad IV 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/30.jpg
+	scale 11
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/46.jpg
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/97.png
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+"
+\emph on
+Porosidad
+\emph default
+" inferida a partir de las imágenes SEM.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Algoritmo sobre la imagen I
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/0.png
+	scale 45
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Solución superpuesta sobre la imagen de SEM
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Algoritmo sobre la imagen II 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/5.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/10.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/15.png
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/20.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/30.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/40.png
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+"
+\emph on
+Porosidad
+\emph default
+" inferida a partir de las imágenes de SEM 
+\begin_inset Formula $(5,10,15,20,30,40)$
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Algoritmo sobre la imagen III
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Muestra1/100.png
+	scale 45
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Máxima percolación electrónica estudiada
+\begin_inset Formula $(100)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
 \begin_layout Section
 Resultados
 \end_layout
 
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Resultados
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+En promedio los 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+electrones
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ seguían caminos correspondientes al 
+\begin_inset Formula $151\%$
+\end_inset
+
+ de la distancia entre los electrodos.
+ 
+\end_layout
+
+\begin_layout Itemize
+Cuando la porosidad aumentó al 
+\begin_inset Formula $1\%$
+\end_inset
+
+, el número de saltos realizados aumentó en un 
+\begin_inset Formula $6,75\%$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+Más 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+electrones
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ siguen caminos de conducción cuya longitud es similar a la del camino disponibl
+e más corto.
+ 
+\end_layout
+
+\begin_layout Itemize
+El número de caminos disponibles para llegar de un electrodo al otro disminuyen
+ y aumentan su longitud.
+ 
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
 \begin_layout Section
 Conclusiones
 \end_layout
@@ -1292,7 +1745,7 @@ Conclusiones
 status open
 
 \begin_layout Plain Layout
-Conclusiones
+Conclusiones I
 \end_layout
 
 \end_inset
@@ -1302,17 +1755,16 @@ Conclusiones
 
 \begin_deeper
 \begin_layout Itemize
-El trabajo reciente de algunos físicos y matemáticos ha proporcionado evidencia,
- tanto numérica como analítica, de una posible conexión entre la función
- Zeta de Riemann y conceptos de energía en mecánica cuántica, en los que
- los ceros de la función correspondan a los niveles de energía de un sistema
- cuántico.
+Se estableció un modelo teórico que permitió realizar la simulación Monte
+ Carlo de la conducción eléctrica en películas delgadas.
+ 
 \end_layout
 
 \begin_layout Itemize
-Sin embargo, es importante resaltar que los estudios que se han realizado
- en este campo no excluyen la posibilidad de la existencia de un contraejemplo
- a la hipótesis de Riemann, ya que la mayoría la asume verdadera.
+El número de saltos que debe realizar un electrón para llegar de un electrodo
+ al otro constituye una variable aleatoria, la distribución de frecuencias
+ es sesgada hacia la derecha debido al límite existente a un lado del valor
+ nominal.
  
 \end_layout
 
@@ -1326,7 +1778,7 @@ Sin embargo, es importante resaltar que los estudios que se han realizado
 status open
 
 \begin_layout Plain Layout
-Conclusiones
+Conclusiones II
 \end_layout
 
 \end_inset
@@ -1336,48 +1788,28 @@ Conclusiones
 
 \begin_deeper
 \begin_layout Itemize
-La relación con algún problema físico de 
-\begin_inset Formula $s=\sigma\pm it$
-\end_inset
-
- y por lo tanto con los ceros no triviales 
-\begin_inset Formula $s=\frac{1}{2}\pm it$
-\end_inset
-
- de la función sigue siendo de gran importancia, interés y futuro trabajo.
+El número de saltos que realiza el electrón para llegar de un electrodo
+ al otro es, en promedio, un 51% mayor que el número mínimo de saltos que
+ puede realizar; esto es, el número de saltos equivalente a la separación
+ entre los dos electrodos.
  
 \end_layout
 
-\begin_layout Standard
-\begin_inset Formula $ $
+\begin_layout Itemize
+A partir de una porosidad de alrededor del 
+\begin_inset Formula $4\%$
 \end_inset
 
-
+ el número de electrones atrapados comienza a ser significativo.
+ 
 \end_layout
 
-\end_deeper
-\begin_layout Separator
-
-\end_layout
-
-\begin_layout Frame
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Trabajo actual
-\end_layout
-
+\begin_layout Itemize
+Para porosidades del orden del 
+\begin_inset Formula $40\%$
 \end_inset
 
-
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-A partir de un espectro generalizado de energía derivar las longitudes de
- onda de las series espectrales de átomos ligeros de pocos electrones y
- a diferentes energías.
+, el máximo estudiado en este trabajo, aún persiste la percolación electrónica.
  
 \end_layout
 
