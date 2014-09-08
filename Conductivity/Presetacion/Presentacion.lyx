@@ -1614,7 +1614,7 @@ Algoritmo sobre la imagen III
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -1636,7 +1636,7 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Máxima percolación electrónica estudiada
+Máxima percolación electrónica estudiada 
 \begin_inset Formula $(100)$
 \end_inset
 
@@ -1674,6 +1674,7 @@ Resultados
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 En promedio los 
 \begin_inset Quotes eld
@@ -1732,6 +1733,7 @@ El número de caminos disponibles para llegar de un electrodo al otro disminuyen
  
 \end_layout
 
+\end_deeper
 \begin_layout Separator
 
 \end_layout
