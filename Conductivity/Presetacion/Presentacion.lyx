@@ -356,7 +356,7 @@ Der
 : SEM.
  [
 \emph on
-López-Carreño et.al,
+López-Carreño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -454,7 +454,7 @@ Der
 .
  [
 \emph on
-López-Carreño et.al,
+López-Carreño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -521,7 +521,7 @@ status collapsed
 Película Delgada.
  [
 \emph on
-López-Carreño et.al,
+López-Carreño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -710,7 +710,7 @@ electrones
 .
  [
 \emph on
-Cárdenas-Avendaño et.al,
+Cárdenas-Avendaño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -742,7 +742,9 @@ key "Cardenas"
 status open
 
 \begin_layout Plain Layout
-Modelo Teórico II
+Modelo Teórico II: 
+\color red
+Modelo Clásico
 \end_layout
 
 \end_inset
@@ -774,7 +776,7 @@ status collapsed
 Mallado bidimensional con dos electrodos ubicados simétricamente.
  [
 \emph on
-Cárdenas-Avendaño et.al,
+Cárdenas-Avendaño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -857,11 +859,11 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Diferencia de Potencia
+Diferencias de Potencial
 \begin_inset Formula $\qquad\qquad$
 \end_inset
 
-Probabilidad de Salto
+Probabilidades de Salto
 \end_layout
 
 \end_inset
@@ -923,7 +925,7 @@ El algoritmo de Metrópolis funciona generando un número aleatorio
 .
  [
 \emph on
-Cárdenas-Avendaño et.al,
+Cárdenas-Avendaño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -1051,7 +1053,7 @@ Frecuencia vs saltos de los electrones emitidos desde el electrodo con potencial
  mayor.
  [
 \emph on
-Cárdenas-Avendaño et.al,
+Cárdenas-Avendaño et al.,
 \emph default
 
 \begin_inset CommandInset citation
@@ -1191,7 +1193,7 @@ Porosidad
 Izq
 \emph default
 : 
-\begin_inset Formula $1,3\%$
+\begin_inset Formula $1,9\%$
 \end_inset
 
 .
@@ -1200,7 +1202,7 @@ Izq
 Der
 \emph default
 : 
-\begin_inset Formula $1,3\%$
+\begin_inset Formula $2,3\%$
 \end_inset
 
 
@@ -1299,20 +1301,118 @@ sideways false
 status collapsed
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/Raw.png
-	scale 22
+	scale 30
 
 \end_inset
 
 
-\begin_inset Formula $\:$
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Imagen de SEM.
+\end_layout
+
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Porosidad IV 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
 \begin_inset Graphics
-	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/P3.jpg
-	scale 20
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/P2.png
+	scale 23
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Descomposición de la imagen por canales 
+\emph on
+(R,G;B)
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Porosidad V 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/ZOOMSEM.jpg
+	scale 30
 
 \end_inset
 
@@ -1350,7 +1450,7 @@ Porosidad
 status open
 
 \begin_layout Plain Layout
-Porosidad IV 
+Porosidad VI 
 \end_layout
 
 \end_inset
@@ -1366,8 +1466,19 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/30.jpg
-	scale 11
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/colorbar.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/30.png
+	scale 20
 
 \end_inset
 
@@ -1394,6 +1505,17 @@ status collapsed
 \end_inset
 
 
+\begin_inset Formula $\:$
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/alejocaleas/GoogleDrive/Konrad/Investigacion/Sistemas Dinamicos/MatematicaAplicada/AppliedMathematics/AppliedMathematics/Conductivity/Process/colorbar.png
+	scale 20
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Plain Layout
@@ -1406,6 +1528,7 @@ status collapsed
 Porosidad
 \emph default
 " inferida a partir de las imágenes SEM.
+ 
 \end_layout
 
 \end_inset
@@ -1614,7 +1737,7 @@ Algoritmo sobre la imagen III
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1658,7 +1781,7 @@ Máxima percolación electrónica estudiada
 \end_layout
 
 \begin_layout Section
-Resultados
+Conclusiones y Resultados
 \end_layout
 
 \begin_layout Frame
@@ -1666,7 +1789,92 @@ Resultados
 status open
 
 \begin_layout Plain Layout
-Resultados
+Conclusiones I
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Se estableció un modelo teórico que permitió realizar una simulación Monte
+ Carlo de la conducción eléctrica en películas delgadas.
+ 
+\end_layout
+
+\begin_layout Itemize
+El número de saltos que debe realizar un electrón para llegar de un electrodo
+ al otro constituye una variable aleatoria, la distribución de frecuencias
+ es sesgada hacia la derecha debido al límite existente a un lado del valor
+ nominal.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Conclusiones II
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+El número de saltos que realiza el electrón para llegar de un electrodo
+ al otro es, en promedio, un 51% mayor que el número mínimo de saltos que
+ puede realizar; esto es, el número de saltos equivalente a la separación
+ entre los dos electrodos.
+ 
+\end_layout
+
+\begin_layout Itemize
+A partir de una porosidad de alrededor del 
+\begin_inset Formula $4\%$
+\end_inset
+
+ el número de electrones atrapados comienza a ser significativo.
+ 
+\end_layout
+
+\begin_layout Itemize
+Para porosidades del orden del 
+\begin_inset Formula $40\%$
+\end_inset
+
+, el máximo estudiado en este trabajo, aún persiste la percolación electrónica.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Conclusiones III
 \end_layout
 
 \end_inset
@@ -1731,95 +1939,6 @@ e más corto.
 El número de caminos disponibles para llegar de un electrodo al otro disminuyen
  y aumentan su longitud.
  
-\end_layout
-
-\end_deeper
-\begin_layout Separator
-
-\end_layout
-
-\begin_layout Section
-Conclusiones
-\end_layout
-
-\begin_layout Frame
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Conclusiones I
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Se estableció un modelo teórico que permitió realizar la simulación Monte
- Carlo de la conducción eléctrica en películas delgadas.
- 
-\end_layout
-
-\begin_layout Itemize
-El número de saltos que debe realizar un electrón para llegar de un electrodo
- al otro constituye una variable aleatoria, la distribución de frecuencias
- es sesgada hacia la derecha debido al límite existente a un lado del valor
- nominal.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Separator
-
-\end_layout
-
-\begin_layout Frame
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Conclusiones II
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-El número de saltos que realiza el electrón para llegar de un electrodo
- al otro es, en promedio, un 51% mayor que el número mínimo de saltos que
- puede realizar; esto es, el número de saltos equivalente a la separación
- entre los dos electrodos.
- 
-\end_layout
-
-\begin_layout Itemize
-A partir de una porosidad de alrededor del 
-\begin_inset Formula $4\%$
-\end_inset
-
- el número de electrones atrapados comienza a ser significativo.
- 
-\end_layout
-
-\begin_layout Itemize
-Para porosidades del orden del 
-\begin_inset Formula $40\%$
-\end_inset
-
-, el máximo estudiado en este trabajo, aún persiste la percolación electrónica.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula $ $
-\end_inset
-
-
 \end_layout
 
 \end_deeper
