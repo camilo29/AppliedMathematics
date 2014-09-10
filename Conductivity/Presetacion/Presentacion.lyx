@@ -177,27 +177,51 @@ Películas Delgadas
 
 \begin_deeper
 \begin_layout Standard
-Propiedades:
+Propiedades 
+\size footnotesize
+[Mosleh 
+\emph on
+et al
+\emph default
+., Ladaga 
+\emph on
+et al
+\emph default
+., Zhao et al.]
+\size default
+:
 \end_layout
 
 \begin_layout Itemize
-Estructurales
+Estructurales (XRD)
 \end_layout
 
 \begin_layout Itemize
-Morfológicas
+Morfológicas (SEM)
 \end_layout
 
 \begin_layout Itemize
-Ópticas 
+Ópticas (Photoluminiscence)
 \end_layout
 
 \begin_layout Itemize
+
+\color blue
 Eléctricas
+\color inherit
+ (Van der Pauw)
 \end_layout
 
 \begin_layout Standard
-Preparación:
+Preparación 
+\size footnotesize
+[Martínez 
+\emph on
+et al
+\emph default
+.]
+\size default
+:
 \end_layout
 
 \begin_layout Itemize
@@ -272,17 +296,10 @@ status collapsed
 
 \begin_layout Plain Layout
 Dispositivo Experimental.
- [
+ [López-Carreño
 \emph on
-López-Carreño,
+ et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Martinez"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -356,15 +373,8 @@ Der
 : SEM.
  [
 \emph on
-López-Carreño et al.,
+López-Carreño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Martinez"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -454,15 +464,8 @@ Der
 .
  [
 \emph on
-López-Carreño et al.,
+López-Carreño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Martinez,Martinez2"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -521,15 +524,8 @@ status collapsed
 Película Delgada.
  [
 \emph on
-López-Carreño et al.,
+López-Carreño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Martinez2"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -632,6 +628,8 @@ Ley de Ohm:
 \end_layout
 
 \begin_layout Frame
+
+\color blue
 \begin_inset Formula 
 \begin{equation}
 \mathbf{J}=\sigma\mathbf{E},
@@ -639,6 +637,8 @@ Ley de Ohm:
 
 \end_inset
 
+
+\color inherit
 siendo 
 \begin_inset Formula $\sigma$
 \end_inset
@@ -710,15 +710,8 @@ electrones
 .
  [
 \emph on
-Cárdenas-Avendaño et al.,
+Cárdenas-Avendaño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Cardenas"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -776,15 +769,8 @@ status collapsed
 Mallado bidimensional con dos electrodos ubicados simétricamente.
  [
 \emph on
-Cárdenas-Avendaño et al.,
+Cárdenas-Avendaño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Cardenas"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -925,15 +911,8 @@ El algoritmo de Metrópolis funciona generando un número aleatorio
 .
  [
 \emph on
-Cárdenas-Avendaño et al.,
+Cárdenas-Avendaño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Cardenas"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -997,6 +976,8 @@ con
 \end_layout
 
 \begin_layout Frame
+
+\color red
 \begin_inset Formula 
 \[
 n>1607,
@@ -1004,11 +985,17 @@ n>1607,
 
 \end_inset
 
+
+\color inherit
 para una malla de 
 \begin_inset Formula $100\times100$
 \end_inset
 
-.
+ [Cárdenas-Avendaño 
+\emph on
+et al
+\emph default
+.].
 \end_layout
 
 \begin_layout Separator
@@ -1053,15 +1040,8 @@ Frecuencia vs saltos de los electrones emitidos desde el electrodo con potencial
  mayor.
  [
 \emph on
-Cárdenas-Avendaño et al.,
+Cárdenas-Avendaño et al.
 \emph default
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Cardenas"
-
-\end_inset
-
 ]
 \end_layout
 
@@ -1805,10 +1785,21 @@ Se estableció un modelo teórico que permitió realizar una simulación Monte
 \end_layout
 
 \begin_layout Itemize
-El número de saltos que debe realizar un electrón para llegar de un electrodo
- al otro constituye una variable aleatoria, la distribución de frecuencias
- es sesgada hacia la derecha debido al límite existente a un lado del valor
- nominal.
+El número de saltos que debe realizar un 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+electrón
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ para llegar de un electrodo al otro constituye una variable aleatoria,
+ la distribución de frecuencias es sesgada hacia la derecha debido al límite
+ existente a un lado del valor nominal.
  
 \end_layout
 
@@ -1832,10 +1823,24 @@ Conclusiones II
 
 \begin_deeper
 \begin_layout Itemize
-El número de saltos que realiza el electrón para llegar de un electrodo
- al otro es, en promedio, un 51% mayor que el número mínimo de saltos que
- puede realizar; esto es, el número de saltos equivalente a la separación
- entre los dos electrodos.
+El número de saltos que realiza el 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+electrón
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ para llegar de un electrodo al otro es, en promedio, un 
+\begin_inset Formula $\left(51\pm3\right)\%$
+\end_inset
+
+ mayor que el número mínimo de saltos que puede realizar; esto es, el número
+ de saltos equivalente a la separación entre los dos electrodos.
  
 \end_layout
 
@@ -1844,7 +1849,19 @@ A partir de una porosidad de alrededor del
 \begin_inset Formula $4\%$
 \end_inset
 
- el número de electrones atrapados comienza a ser significativo.
+ el número de 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+electrones
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ atrapados comienza a ser significativo.
  
 \end_layout
 
@@ -1897,7 +1914,7 @@ electrones
 \end_inset
 
  seguían caminos correspondientes al 
-\begin_inset Formula $151\%$
+\begin_inset Formula $\left(151\pm4\right)\%$
 \end_inset
 
  de la distancia entre los electrodos.
@@ -1922,11 +1939,7 @@ Más
 \begin_inset Quotes eld
 \end_inset
 
-
-\emph on
 electrones
-\emph default
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -2038,6 +2051,23 @@ Martínez H.M, Torres J, Rodríguez-García M.E, López-Carreño L.D.
  Gas sensing properties of nanostructured MoO3 thin films prepared by spray
  pyrolysis.
  Physica B: Condensed Matter, Volume 407, Issue 16, 15.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Mosleh"
+
+\end_inset
+
+Mosleh.
+ M, Pryds.
+ N, Vang.
+ P.
+ (2007).
+ Thickness dependence of the conductivity of thin films (La,Sr)FeO3 deposited
+ on MgO single crystal.
+ Materials Science and Engineering B 144, 38–42.
 \end_layout
 
 \end_deeper
